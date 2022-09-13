@@ -1,0 +1,43 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="CSharp_Net_module2_1_2_lab.MainWindow"
+        Title="MainWindow" Height="424" Width="528">
+    <Grid>
+        <Button x:Name="FirstBtn" FontWeight="Bold" Content="First Button" Margin="21,333,396,31" Click="FirstBtn_Click"/>
+        <WrapPanel Margin="10,15,10,132" >
+            <TextBlock Foreground ="Blue"  Background="Gray" Text="Multi" Height="28" Width="180"/>
+            <TextBlock Foreground="Red" Background="Gray" Text="Color" Height="28" Width="180" Margin="20,0,0,0"/>
+            <TextBlock Foreground="Green" Background="Gray" Height="28" Width="180" Text = "Button"/>
+            <DataGrid x:Name="DataGridView" Height="175" Width="488" Margin="10, 20, 0, 0" ItemsSource="{Binding}"/>
+        </WrapPanel>
+        <Button x:Name="SecondBtn" FontWeight="Bold" Content="Second Button" Margin="396,333,21,31" Click="SecondBtn_Click"/>
+
+        <!-- 1) Add new button; set Name
+        
+        2) Add Button.FontWeight as Bold
+        
+        3) Add Button.Content
+        
+        4)  Add WrapPanel
+        
+        5) Add TextBlock with Foreground "Blue" and text "Multi"
+        
+        6) Add TextBlock with Foreground "Red" and text "Color"
+        
+        7) Add TextBlock with text "Button"
+        
+        8) Close all tags
+        -->
+
+        <!--
+        10) Add Button to show another window
+        
+        -->
+
+        <!--
+        14) Add DataGrid to manipulate with table from database; use ItemsSource="{Binding}"
+        
+        -->
+    </Grid>
+</Window>

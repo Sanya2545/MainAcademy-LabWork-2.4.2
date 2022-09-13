@@ -1,0 +1,42 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\MainWindow.baml
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\MainWindow.g.cs
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\App.g.cs
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab_MarkupCompile.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.g.resources
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.Properties.Resources.resources
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.csproj.GenerateResource.Cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\CSharp_Net-module2_1_2–lab\upgrade\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\MainWindow.baml
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\MainWindow.g.cs
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\App.g.cs
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab_MarkupCompile.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.g.resources
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.Properties.Resources.resources
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\2_1_2\upgrade\begin\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.csproj.GenerateResource.Cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.exe.config
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.exe
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\bin\Debug\CSharp_Net_module2_1_2_lab.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.csproj.AssemblyReference.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\MainWindow.baml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\MainWindow.g.cs
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\App.g.cs
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab_MarkupCompile.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.g.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.Properties.Resources.resources
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.csproj.GenerateResource.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.csproj.CoreCompileInputs.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.exe
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\PictureWindow.g.cs
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\CSharp_Net_module2_1_2_lab_MarkupCompile.lref
+D:\MainAcademy\C# .NET\LabWorks_2\Module_4\LabWork#4.2\(begin)CSharp_Net_module4_2_lab\CSharp_Net_module2_1_2_lab\CSharp_Net_module2_1_2_lab\obj\Debug\PictureWindow.baml
